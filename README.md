@@ -1,4 +1,6 @@
 # Wazo project documentation for developers
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwazo-platform%2Fwazo-platform.org.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwazo-platform%2Fwazo-platform.org?ref=badge_shield)
+
 
 This repo contains the source and building scripts for generating http://developers.wazo.io.
 
@@ -42,3 +44,7 @@ Then open http://localhost:8000 in your favorite browser.
 ```sh
 make test
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwazo-platform%2Fwazo-platform.org.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwazo-platform%2Fwazo-platform.org?ref=badge_large)
