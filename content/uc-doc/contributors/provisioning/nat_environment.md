@@ -1,5 +1,5 @@
 ---
-title: Configuring a NAT Environment
+title: Simulating a NAT Environment for development
 ---
 
 This is a configuration example to simulate the case of a hosted Wazo,
