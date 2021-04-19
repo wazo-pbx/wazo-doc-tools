@@ -59,9 +59,12 @@ This can be changed with `wazo-provd` endpoint `/provd/configure/plugin_server`
   repository
 
 The difference between the stable and testing repositories is that the latter might contain plugins
-that are not working properly or are still in development.
+that are not working properly or are still in development. The testing repository is updated every
+time a plugin is merged in the main branch during a development iteration. At the end of an
+iteration, the testing repository is copied to the stable repository.
 
-The archive repository contains plugins that were once in the stable repository.
+The archive repository contains plugins that were once in the stable repository and is updated
+at the end of every development iteration.
 
 After setting a new URL, you must refresh the list of installable plugins with
 `/provd/pg_mgr/install/update`
