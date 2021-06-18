@@ -38,7 +38,7 @@
     "rss": "^1.2.2",
     "showdown": "^1.9.0",
     "stickyfill": "^1.1.1-strict",
-    "striptags": "^3.1.1",
+    "striptags": "^3.2.0",
     "styled-components": "^4.2.0",
     "swagger-ui-react": "^3.23.11"
   },
