@@ -21,7 +21,7 @@ To install it on a debian based system uses the following commands on the comman
 
 ```sh
 # Debian Buster (10)
-apt update && apt install git python3-pip python3-setuptools
+apt update && apt install git python3-pip python3-setuptools sudo
 cd /tmp
 git clone https://github.com/wazo-platform/wazo-export-import.git
 cd wazo-export-import
